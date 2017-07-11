@@ -1,2 +1,2 @@
 # VideoPlayer
-Aplikacja pozwala na odtworzenie zawartości video.
+Aplikacja pozwala na odtworzenie zawartości video z karty pamięci.
